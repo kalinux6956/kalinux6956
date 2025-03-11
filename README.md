@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalinux6956
-- 👀 I’m interested in ...la securitée informatique 
-- 🌱 I’m currently learning ...à utiliser kali linux et je debute avec python!
+- 👀 I’m interested in infosec
+- 🌱 I’m currently learning ... utilisé linux et ctf en mode super easy😅
 - 📫 How to reach me ...kalinux6.956@outlook.com
 
 <!---
